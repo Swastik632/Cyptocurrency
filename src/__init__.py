@@ -1,0 +1,1 @@
+# Cryptocurrency volatility prediction package
