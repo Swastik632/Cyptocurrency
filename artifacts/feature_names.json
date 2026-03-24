@@ -1,0 +1,16 @@
+{
+  "features": [
+    "log_ret",
+    "roll_vol_5",
+    "roll_vol_10",
+    "roll_vol_20",
+    "close_ma7_ratio",
+    "close_ma20_ratio",
+    "bb_width",
+    "hl_range_pct",
+    "co_range_pct",
+    "vol_mcap_ratio",
+    "log_mcap",
+    "crypto_id"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "rmse": 0.03655163309885579,
+  "mae": 0.022815942526636216,
+  "r2": 0.18182385132703105,
+  "n_train": 59449,
+  "n_test": 10491,
+  "target": "forward_5d_realized_volatility (std of next 5 daily log returns)"
+}
